@@ -6,7 +6,8 @@
       "director": "Francis Ford Coppola",
       "year": 1972,
       "summary": "Power and corruption in the mafia family of the Corleones.",
-      "actor": "Marlon Brando"
+      "actor": "Marlon Brando",
+      "picture": "https://i.ibb.co/ZG5qBtw/good-Father.webp"
     },
     {
       "id": 2,
@@ -14,7 +15,8 @@
       "director": "Martin Scorsese",
       "year": 1990,
       "summary": "Rise and fall of a gangster in the Italian mafia.",
-      "actor": "Ray Liotta"
+      "actor": "Ray Liotta",
+      "picture": "https://i.ibb.co/z8rwzsd/good-Fellas.webp"
     },
     {
       "id": 3,
@@ -22,7 +24,8 @@
       "director": "Brian De Palma",
       "year": 1983,
       "summary": "Cuban immigrant becomes a powerful drug lord in Miami.",
-      "actor": "Al Pacino"
+      "actor": "Al Pacino",
+      "picture": "https://i.ibb.co/qgmGnWq/scarface.webp"
     },
     {
       "id": 4,
@@ -30,7 +33,8 @@
       "director": "Martin Scorsese",
       "year": 2006,
       "summary": "Police infiltration in the Irish mafia of Boston.",
-      "actor": "Leonardo DiCaprio"
+      "actor": "Leonardo DiCaprio",
+      "picture": "https://i.ibb.co/1R5svCw/departed.webp"
     },
     {
       "id": 5,
@@ -38,7 +42,8 @@
       "director": "Martin Scorsese",
       "year": 1995,
       "summary": "Intrigues and betrayals in a Las Vegas casino.",
-      "actor": "Robert De Niro"
+      "actor": "Robert De Niro",
+      "picture": "https://i.ibb.co/sCLskwc/casino.webp"
     },
     {
       "id": 6,
@@ -46,7 +51,8 @@
       "director": "Sergio Leone",
       "year": 1984,
       "summary": "Story of friendship and betrayal among Jewish gangsters in New York.",
-      "actor": "Robert De Niro"
+      "actor": "Robert De Niro",
+      "picture": "https://i.ibb.co/n8CWTVt/once-Upon-Time.webp"
     },
     {
       "id": 7,
@@ -54,7 +60,8 @@
       "director": "Ridley Scott",
       "year": 2007,
       "summary": "Rise of drug trafficker Frank Lucas in 1970s Harlem.",
-      "actor": "Denzel Washington"
+      "actor": "Denzel Washington",
+      "picture": "https://i.ibb.co/k51VDTG/american-Gangster.webp"
     },
     {
       "id": 8,
@@ -62,7 +69,8 @@
       "director": "Mike Newell",
       "year": 1997,
       "summary": "FBI agent infiltrates the mafia in New York.",
-      "actor": "Johnny Depp"
+      "actor": "Johnny Depp",
+      "picture": "https://i.ibb.co/xffX6cY/donnie-Brasco.webp"
     },
     {
       "id": 9,
@@ -70,7 +78,8 @@
       "director": "Michael Mann",
       "year": 2009,
       "summary": "Life of notorious gangster John Dillinger during the Great Depression.",
-      "actor": "Johnny Depp"
+      "actor": "Johnny Depp",
+      "picture": "https://i.ibb.co/2SCLjG5/public-Enemies.webp"
     },
     {
       "id": 10,
@@ -78,7 +87,8 @@
       "director": "Robert De Niro",
       "year": 1993,
       "summary": "Italian-American boy caught between the mafia and family values.",
-      "actor": "Robert De Niro"
+      "actor": "Robert De Niro",
+      "picture": "https://i.ibb.co/xGqYSTz/bronx-Tale.webp"
     }
   ]
 }
