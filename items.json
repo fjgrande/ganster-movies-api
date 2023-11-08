@@ -8,7 +8,7 @@
       "summary": "Power and corruption in the mafia family of the Corleones.",
       "actor": "Marlon Brando",
       "picture": "https://i.ibb.co/ZG5qBtw/good-Father.webp",
-      "watched": false
+      "isSeen": false
     },
     {
       "id": 2,
@@ -18,7 +18,7 @@
       "summary": "Rise and fall of a gangster in the Italian mafia.",
       "actor": "Ray Liotta",
       "picture": "https://i.ibb.co/z8rwzsd/good-Fellas.webp",
-      "watched": false
+      "isSeen": false
     },
     {
       "id": 3,
@@ -28,7 +28,7 @@
       "summary": "Cuban immigrant becomes a powerful drug lord in Miami.",
       "actor": "Al Pacino",
       "picture": "https://i.ibb.co/qgmGnWq/scarface.webp",
-      "watched": false
+      "isSeen": false
     },
     {
       "id": 4,
@@ -38,7 +38,7 @@
       "summary": "Police infiltration in the Irish mafia of Boston.",
       "actor": "Leonardo DiCaprio",
       "picture": "https://i.ibb.co/1R5svCw/departed.webp",
-      "watched": false
+      "isSeen": false
     },
     {
       "id": 5,
@@ -48,7 +48,7 @@
       "summary": "Intrigues and betrayals in a Las Vegas casino.",
       "actor": "Robert De Niro",
       "picture": "https://i.ibb.co/sCLskwc/casino.webp",
-      "watched": false
+      "isSeen": false
     },
     {
       "id": 6,
@@ -58,7 +58,7 @@
       "summary": "Story of friendship and betrayal among Jewish gangsters in New York.",
       "actor": "Robert De Niro",
       "picture": "https://i.ibb.co/n8CWTVt/once-Upon-Time.webp",
-      "watched": false
+      "isSeen": false
     },
     {
       "id": 7,
@@ -68,7 +68,7 @@
       "summary": "Rise of drug trafficker Frank Lucas in 1970s Harlem.",
       "actor": "Denzel Washington",
       "picture": "https://i.ibb.co/k51VDTG/american-Gangster.webp",
-      "watched": false
+      "isSeen": false
     },
     {
       "id": 8,
@@ -78,7 +78,7 @@
       "summary": "FBI agent infiltrates the mafia in New York.",
       "actor": "Johnny Depp",
       "picture": "https://i.ibb.co/xffX6cY/donnie-Brasco.webp",
-      "watched": false
+      "isSeen": false
     },
     {
       "id": 9,
@@ -88,7 +88,7 @@
       "summary": "Life of notorious gangster John Dillinger during the Great Depression.",
       "actor": "Johnny Depp",
       "picture": "https://i.ibb.co/2SCLjG5/public-Enemies.webp",
-      "watched": false
+      "isSeen": false
     },
     {
       "id": 10,
@@ -98,7 +98,7 @@
       "summary": "Italian-American boy caught between the mafia and family values.",
       "actor": "Robert De Niro",
       "picture": "https://i.ibb.co/xGqYSTz/bronx-Tale.webp",
-      "watched": false
+      "isSeen": false
     }
   ]
 }
