@@ -7,7 +7,8 @@
       "year": 1972,
       "summary": "Power and corruption in the mafia family of the Corleones.",
       "actor": "Marlon Brando",
-      "picture": "https://i.ibb.co/ZG5qBtw/good-Father.webp"
+      "picture": "https://i.ibb.co/ZG5qBtw/good-Father.webp",
+      "watched": false
     },
     {
       "id": 2,
@@ -16,7 +17,8 @@
       "year": 1990,
       "summary": "Rise and fall of a gangster in the Italian mafia.",
       "actor": "Ray Liotta",
-      "picture": "https://i.ibb.co/z8rwzsd/good-Fellas.webp"
+      "picture": "https://i.ibb.co/z8rwzsd/good-Fellas.webp",
+      "watched": false
     },
     {
       "id": 3,
@@ -25,7 +27,8 @@
       "year": 1983,
       "summary": "Cuban immigrant becomes a powerful drug lord in Miami.",
       "actor": "Al Pacino",
-      "picture": "https://i.ibb.co/qgmGnWq/scarface.webp"
+      "picture": "https://i.ibb.co/qgmGnWq/scarface.webp",
+      "watched": false
     },
     {
       "id": 4,
@@ -34,7 +37,8 @@
       "year": 2006,
       "summary": "Police infiltration in the Irish mafia of Boston.",
       "actor": "Leonardo DiCaprio",
-      "picture": "https://i.ibb.co/1R5svCw/departed.webp"
+      "picture": "https://i.ibb.co/1R5svCw/departed.webp",
+      "watched": false
     },
     {
       "id": 5,
@@ -43,7 +47,8 @@
       "year": 1995,
       "summary": "Intrigues and betrayals in a Las Vegas casino.",
       "actor": "Robert De Niro",
-      "picture": "https://i.ibb.co/sCLskwc/casino.webp"
+      "picture": "https://i.ibb.co/sCLskwc/casino.webp",
+      "watched": false
     },
     {
       "id": 6,
@@ -52,7 +57,8 @@
       "year": 1984,
       "summary": "Story of friendship and betrayal among Jewish gangsters in New York.",
       "actor": "Robert De Niro",
-      "picture": "https://i.ibb.co/n8CWTVt/once-Upon-Time.webp"
+      "picture": "https://i.ibb.co/n8CWTVt/once-Upon-Time.webp",
+      "watched": false
     },
     {
       "id": 7,
@@ -61,7 +67,8 @@
       "year": 2007,
       "summary": "Rise of drug trafficker Frank Lucas in 1970s Harlem.",
       "actor": "Denzel Washington",
-      "picture": "https://i.ibb.co/k51VDTG/american-Gangster.webp"
+      "picture": "https://i.ibb.co/k51VDTG/american-Gangster.webp",
+      "watched": false
     },
     {
       "id": 8,
@@ -70,7 +77,8 @@
       "year": 1997,
       "summary": "FBI agent infiltrates the mafia in New York.",
       "actor": "Johnny Depp",
-      "picture": "https://i.ibb.co/xffX6cY/donnie-Brasco.webp"
+      "picture": "https://i.ibb.co/xffX6cY/donnie-Brasco.webp",
+      "watched": false
     },
     {
       "id": 9,
@@ -79,7 +87,8 @@
       "year": 2009,
       "summary": "Life of notorious gangster John Dillinger during the Great Depression.",
       "actor": "Johnny Depp",
-      "picture": "https://i.ibb.co/2SCLjG5/public-Enemies.webp"
+      "picture": "https://i.ibb.co/2SCLjG5/public-Enemies.webp",
+      "watched": false
     },
     {
       "id": 10,
@@ -88,7 +97,8 @@
       "year": 1993,
       "summary": "Italian-American boy caught between the mafia and family values.",
       "actor": "Robert De Niro",
-      "picture": "https://i.ibb.co/xGqYSTz/bronx-Tale.webp"
+      "picture": "https://i.ibb.co/xGqYSTz/bronx-Tale.webp",
+      "watched": false
     }
   ]
 }
